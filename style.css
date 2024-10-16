@@ -1,0 +1,29 @@
+#first {
+  font-family: sans-serif;
+  font-size: 10rem;
+  display: block;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.bt {
+  text-align: center;
+}
+
+.bt button {
+  display: inline-block;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  transition-duration: 0.5s;
+  background-color: blue;
+  color: white;
+  width: 100px;
+  height: 50px;
+  border-radius: 10%;
+  border-color: blue;
+}
+
+.bt-st:hover {
+  background-color: aquamarine;
+}
