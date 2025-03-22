@@ -1,4 +1,4 @@
-# NUMBER COUNTER
+# NUMBER COUNTER JAVASCRIPT 
 
 
 Language : JavaScript 
