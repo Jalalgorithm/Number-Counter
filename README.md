@@ -7,3 +7,6 @@ A counter for reseting and counting with a simplified interface with the help og
 
 Email:ahmeedabduljalal@gmail.com
 Email : temitomzi@outlook.com
+
+
+# TASK 
